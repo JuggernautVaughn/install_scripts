@@ -1,2 +1,2 @@
 # install_scripts
-installs a Void Linux system.
+installs a Void Linux system
